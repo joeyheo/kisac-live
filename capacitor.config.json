@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "kisac.live",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
