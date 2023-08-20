@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/joeyheo/KISAC-Live">
-    <img src="https://github.com/joeyheo/kisac-live/blob/main/KISAC_LIVE_WHITE.png" alt="Logo" width="200" height="80">
+    <img src="https://github.com/joeyheo/kisac-live/blob/main/KISAC_LIVE_WHITE.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">KISAC.Live V2</h3>
