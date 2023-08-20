@@ -13,8 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joeyheo/Literary-Lookout">
-    <img src="https://github.com/joeyheo/Literary-Lookout/blob/main/src/logo/Text_White.png" alt="Logo" width="200" height="80">
+  <a href="https://github.com/joeyheo/KISAC-Live">
+    <img src="https://github.com/joeyheo/KISAC-Live/KISAC_LIVE_WHITE.png" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">KISAC.Live V2</h3>
@@ -25,9 +25,9 @@
     <br />
     <a href="https://kisac.live">View Demo</a>
     ·
-    <a href="https://github.com/joeyheo/Literary-Lookout/issues">Report Bug</a>
+    <a href="https://github.com/joeyheo/KISAC-Live/issues">Report Bug</a>
     ·
-    <a href="https://github.com/joeyheo/Literary-Lookout/issues">Request Feature</a>
+    <a href="https://github.com/joeyheo/KISAC-Live/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,16 +61,19 @@
 
 ## About The Project
 
-Literary Lookout is a platform that offers personalized book recommendations, curated reading lists, and a community for book lovers to connect and share their opinions, with the goal of inspiring a new generation of readers and fostering a lifelong love of reading.
+KISAC.Live is a platform that offers information about school's athletics, conference information and other sports-related information.
 
 <b>Features:</b>
 
-- Personalized book recommendations based on your reading preferences
-- Curated reading lists for different genres, themes, and occasions
-- Community forum to connect with other book lovers and share opinions and recommendations
-- Search feature to find books based on title, author, or genre
-- Save books to a personal reading list for future reference
-- Rate and review books that you have read
+- Live Scores and Statistics
+- Team Ranking
+- Game Score
+- Calendar/Game Schedule
+- Live Stream
+- School Team Page
+- Conference Page
+- Team Management (Rosters)
+- Generate Schedule (Tournaments)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,20 +83,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 - React.JS for the front-end
 - Firestore for the database
-- Chakra UI for UI Framework
+- Semantic UI for UI Framework
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
-1. Create an account or log in with an existing account
-2. Browse the book recommendations, reading lists, and community forum
-3. Use the search feature to find books based on title, author, or genre
-4. Save books to your personal reading list for future reference
-5. Rate and review books that you have read
-6. Connect with other book lovers in the community forum and share opinions and recommendations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +105,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Joey Heo - [LinkedIn](https://www.linkedin.com/in/sunghyun-joey-heo-b6b92a1b3/) - heojoey2004@gmail.com
+Joey Heo - [LinkedIn](https://www.linkedin.com/in/joeyheo/) - heojoey2004@gmail.com
 
-Project Link: [https://github.com/joeyheo/Literary-Lookout](https://github.com/joeyheo/Literary-Lookout)
+Project Link: [https://github.com/joeyheo/KISAC-live](https://github.com/joeyheo/KISAC-Live)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
