@@ -20,7 +20,7 @@
   <h3 align="center">KISAC.Live V2</h3>
 
   <p align="center">
-   A platform that offers information about school's athletics, conference information and other sports-related information. 
+  KISAC Live is an all-in-one web-based platform that connects schools and students through sports. It offers an accessible, easy-to-use, and centralized source of information regarding inter-school sports competitions that promote communication, student initiative, and competitiveness.
     <br />
     <br />
     <a href="https://kisac.live">View Demo</a>
