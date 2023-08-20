@@ -1,0 +1,21 @@
+
+  .scroll__container {
+    position: relative;
+    background-color: #EDF0F6;
+    margin: -12px 0 0;
+    padding: 30px;
+    display: flex;
+    overflow-x: auto;
+    max-height:156px;
+    overflow-y: hidden;
+  }
+  
+  .scroll__container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .scroll__container {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }

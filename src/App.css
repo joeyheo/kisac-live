@@ -1,0 +1,257 @@
+/* KISAC.LIVE V2 CLIENT*/
+.centered{
+  display: table; margin-left: auto; margin-right: auto;
+}
+.textcentered{
+  text-align: center;
+  font-size: 4em
+}
+
+.textcentered2{
+  text-align: center;
+  font-size: 1em;
+}
+.team2 {
+    display: flex;
+    flex-direction: row;
+    color: white; 
+    height: 350px;
+  }
+
+.timer2 {
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #222; 
+    font-size: 40px;
+    height:50px;
+  }
+  
+  .timer2-container {
+    display: flex;
+
+    flex-direction: row; 
+    text-align: center;
+  }
+  
+  .timer2-container > * {
+    border-right: 1px solid white; 
+    margin-top: 15px;
+    padding: 0em 1em; 
+    color: white;
+    text-align: center;
+  }
+  
+  .timer2-container > *:last-child {
+    border-right: 0; 
+    color: yellow; 
+    text-align: center;
+  }
+.teamtext{
+    margin-top: 120px;
+    font-size:200px;
+    font-weight: bold;
+}
+.containerf {
+    margin-top: 400px;
+    margin-bottom: 600px;
+  }
+  
+  .childf {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px; /* Apply negative top and left margins to truly center the element */
+  }
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    font-size: 20px;
+    text-align: center;
+  }
+#grad1 {
+    background-color: green; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, darkgreen, gold);
+  }
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+.scoreboard {
+  display: flex;
+  flex-direction:row;
+}
+
+.scoreboard > * {
+  border-top: 1px solid white;
+  border-bottom: 1px solid white; 
+  border-right: 1px solid white; 
+  height: 50px; 
+  font-weight: bold; 
+}
+
+.scoreboard > *:first-child {
+  border-left: 1px solid white;
+}
+
+.team {
+  display: flex;
+  flex-direction: row;
+  color: white; 
+}
+
+.team-detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+}
+
+.team-detail {
+  padding: 0em 0.5em; 
+}
+
+.team-detail {
+  font-size: 1.5em; 
+}
+
+.team-detail .team-nameandscore {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+}
+
+.team-detail .team-thisgame {
+  width: 150px; 
+  font-size: 0.5em; 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  opacity: 0.8;
+}
+
+.timer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #222; 
+}
+
+.timer-container {
+  display: flex;
+  flex-direction: row; 
+}
+
+.timer-container > * {
+  border-right: 1px solid white; 
+  padding: 0em 1em; 
+  color: white;
+}
+
+.timer-container > *:last-child {
+  border-right: 0; 
+  color: yellow; 
+}
+
+.logo {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  padding: 0em 0.5em; 
+  background-color: black; 
+}
+
+.logo img {
+  width: 100px; 
+}
+
+/* Game */ 
+.houston { background-color: black;}
+
+.dallas {
+  background-color: black; 
+}
+
+.wrapper { 
+    height: 100%;
+    width: 100%;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+  background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  background-size: 1800% 1800%;
+  
+  -webkit-animation: rainbow 4s ease infinite;
+  -z-animation: rainbow 4s ease infinite;
+  -o-animation: rainbow 4s ease infinite;
+    animation: rainbow 4s ease infinite;}
+  
+  @-webkit-keyframes rainbow {
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
+  @-moz-keyframes rainbow {
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
+  @-o-keyframes rainbow {
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
+  @keyframes rainbow { 
+      0%{background-position:0% 82%}
+      50%{background-position:100% 19%}
+      100%{background-position:0% 82%}
+  }
+.navbarfont{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.paddingfix{
+    padding: 30px;
+}
+.spaddingfix{
+    padding: 3px;
+}
+
+.scorepaddingfix{
+    padding: 10px;
+}
+.roundededge{
+    border-radius: 5px;
+  overflow: hidden;
+  z-index: 1;
+}
+.scorepaddingfix{
+    padding: 20px;
+}
+.smallerfont{
+    font-size: 15px;
+    text-align: center;
+
+}
+.centerfont{
+    text-align: center;
+}
+
+.playerprofile{
+    border-radius: 30px;
+    height: 20px;
+    width: 40px;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+
+}
